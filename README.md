@@ -74,5 +74,4 @@ python-Levenshtein (accuracy checking)
 
 emoji (UI labels)
 
-📂 Project Structure
 
