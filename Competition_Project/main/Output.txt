@@ -1,0 +1,8 @@
+it finally works you
+spoken text:this is the test phrase
+spoken text:this is the test price
+spoken text:this is a test phrase
+spoken text:I am not speaking
+spoken text:this is a test phrase
+spoken text:ABCD
+spoken text:ABCD
